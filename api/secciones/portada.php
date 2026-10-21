@@ -1,11 +1,8 @@
 <?php
-/*****
-SUSTITUYE LAS XXX POR UN VALOR DE UNA NOTICIA DE INTERES EN ESTA CATEGORIA
-*****/
 
 $portada = [
-"titulo" => "Portada",
+"titulo" => "Portada actualizada", (1)
 "autor" => "mtorres",
-"resumen" => "El resumen maravilloso",
+"resumen" => "Resumen de la portada",
 ];
 ?>
